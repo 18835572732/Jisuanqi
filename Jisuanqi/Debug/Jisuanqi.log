@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\documents\visual studio 2015\projects\jisuanqi\jisuanqi\源.cpp(64): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Jisuanqi.vcxproj -> d:\documents\visual studio 2015\Projects\Jisuanqi\Debug\Jisuanqi.exe
+  Jisuanqi.vcxproj -> d:\documents\visual studio 2015\Projects\Jisuanqi\Debug\Jisuanqi.pdb (Partial PDB)
